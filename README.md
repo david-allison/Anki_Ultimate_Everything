@@ -1,3 +1,12 @@
+Original announcement: https://web.archive.org/web/20200711173749/https://www.reddit.com/r/Anki/comments/hkj3dt/20000_card_ultimate_everything_anki_deck_for/
+
+This fork was created in order to redistribute the decks. See the [releases](https://github.com/david-allison/Anki_Ultimate_Everything/releases/) for the latest download.
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+----
+
+
 BLUF: This project provides high-quality atomic Anki flashcards which cover a myriad general knowledge topics, of the sort which might be asked about on “Jeopardy!”
 
 This is the Ultimate Everything Deck.
